@@ -1,0 +1,29 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RudawTV.iq@SD" group-title="Kurdish | News",Rudaw
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+
+#EXTINF:-1 group-title="Kurdish | News",Kurdistan 24 (K24)
+https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
+
+#EXTINF:-1 group-title="Kurdish | News",Channel 8
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+
+#EXTINF:-1 group-title="Kurdish | Entertainment",AVA Media
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD" tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png" group-title="Kids",Afarin Baxcha (1080p)
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KurdistanTV.iq@SD" group-title="Kurdish | General",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kurdsat.iq@SD" group-title="Kurdish | General",Kurdsat
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+
+#EXTINF:-1 tvg-id="NRTTV.iq@SD" group-title="Kurdish | News",NRT
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+
+#EXTINF:-1 group-title="Kurdish | General",Gali Kurdistan
+https://live.host247.net/gk/gksat/playlist.m3u8
